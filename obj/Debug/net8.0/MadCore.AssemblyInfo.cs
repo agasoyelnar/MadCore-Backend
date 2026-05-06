@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MadCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb36f38dc026bbe6007c039d51710a72b449164b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123c3823d26b5ac3d1929e98e112fca449d02bd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MadCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MadCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCore\\MadCore\\MadCore.csproj": {}
+    "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\MadCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCore\\MadCore\\MadCore.csproj": {
+    "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\MadCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCore\\MadCore\\MadCore.csproj",
+        "projectUniqueName": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\MadCore.csproj",
         "projectName": "MadCore",
-        "projectPath": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCore\\MadCore\\MadCore.csproj",
+        "projectPath": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\MadCore.csproj",
         "packagesPath": "C:\\Users\\Classtime.PC_6_213_14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCore\\MadCore\\obj\\",
+        "outputPath": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

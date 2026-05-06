@@ -1,49 +1,118 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - MadCore</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/MadCore.styles.css" asp-append-version="true" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medinova Header</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MadCore</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+    <header class="">
+
+        <div class="top-bar">
+            <div class="container">
+                <div class="contact-info">
+                    <a><i class="fa-solid fa-phone"></i> +012 345 6789</a>
+                    <span class="separator">|</span>
+                    <a><i class="fa-solid fa-envelope"></i> info@example.com</a>
+                </div>
+                <div class="social-links">
+                    <a href="https://facebook.com" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://x.com" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="https://linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="main-nav">
+            <div class="container">
+                <div class="logo">
+                    <i class="fa-solid fa-house-medical"></i>
+                    <span class="logospan">MEDCORE</span>
+                </div>
+
+                <div class="nav-wrapper">
+                    <ul class="nav-links">
+                        <li><a href="index.html" class="nav-a home-link active">Home</a></li>
+                        <li><a href="./about.html" class="nav-a has-underline">About</a></li>
+                        <li><a href="./service.html" class="nav-a has-underline">Service</a></li>
+                        <li><a href="./pricing.html" class="nav-a has-underline">Pricing</a></li>
+                        <li>
+                            <a href="#" class="nav-a has-underline">Pages <i class="fa-solid fa-caret-down"></i></a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li><a href="./contact.html" class="nav-a has-underline">Contact</a></li>
+                        <li class="auth-buttons">
+                            <a href="login.html" class="login-btn">Login</a>
+                            <a href="register.html" class="register-btn">Register</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2026 - MadCore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+    </header>
+
+       <main role="main" class="pb-3">
+           @RenderBody()
+       </main>
+
+
+    <footer>
+        <div class="footer-inner">
+            <div class="footer-col">
+                <h4>GET IN TOUCH</h4>
+                <p>No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor</p>
+            </div>
+            <div class="footer-col">
+                <h4>QUICK LINKS</h4>
+                <ul class="footer-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Our Services</a></li>
+                    <li><a href="#">Meet The Team</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>POPULAR LINKS</h4>
+                <ul class="footer-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Our Services</a></li>
+                    <li><a href="#">Meet The Team</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>NEWSLETTER</h4>
+                <div class="newsletter-row">
+                    <input type="email" placeholder="Your Email Address" />
+                    <button>Sign Up</button>
+                </div>
+                <span class="follow-label">FOLLOW US</span>
+                <div class="social-icons">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 MEDINOVA. All Rights Reserved.
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
+
 </body>
+
 </html>
