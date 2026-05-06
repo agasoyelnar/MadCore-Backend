@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|c:\\users\\classtime.pc_6_213_2\\desktop\\madcore-backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBAFEB5-599B-4E02-963F-663319A536CA}|MadCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
@@ -51,20 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T08:29:02.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -98,12 +98,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T08:05:37.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T08:05:37.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

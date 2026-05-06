@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YCgn7m4JQM79joWRTroGyJvCl0A5ZXk+iZU4lqbJyaA=",
+  "Hash": "CV51m0u4nXokKahSJWL4C28yfR3hmrQmybduwhlBoM4=",
   "Source": "MadCore",
   "BasePath": "_content/MadCore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MadCore\\wwwroot",
       "Source": "MadCore",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MadCore.styles.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MadCore.styles.css",
       "SourceId": "MadCore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "MadCore.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MadCore.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MadCore.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MadCore.bundle.scp.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MadCore.bundle.scp.css",
       "SourceId": "MadCore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "MadCore.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MadCore.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MadCore.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\about.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\about.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/about.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\contact.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\contact.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/contact.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\login.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\login.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/login.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\pricing.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\pricing.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/pricing.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\pricing.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\register.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\register.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/register.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\register.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\service.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\service.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/service.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\service.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\css\\style.css",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\image\\about.png",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\image\\about.png",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/image/about.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\about.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\image\\background.png",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\image\\background.png",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/image/background.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\image\\dental.jpg",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\image\\dental.jpg",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/image/dental.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\dental.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\image\\health.jpg",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\image\\health.jpg",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/image/health.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\health.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\image\\operation.jpg",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\image\\operation.jpg",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/image/operation.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\operation.jpg"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\assets\\js\\script.js",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\assets\\js\\script.js",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "assets/js/script.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\favicon.ico",
       "SourceId": "MadCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_14\\Desktop\\MadCoreBack\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Classtime.PC_6_213_2\\Desktop\\MadCore-Backend\\wwwroot\\",
       "BasePath": "_content/MadCore",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
