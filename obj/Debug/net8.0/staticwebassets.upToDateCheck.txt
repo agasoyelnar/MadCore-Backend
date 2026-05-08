@@ -1,0 +1,14 @@
+wwwroot\assets\css\about.css
+wwwroot\assets\css\contact.css
+wwwroot\assets\css\login.css
+wwwroot\assets\css\pricing.css
+wwwroot\assets\css\register.css
+wwwroot\assets\css\service.css
+wwwroot\assets\css\style.css
+wwwroot\assets\image\about.png
+wwwroot\assets\image\background.png
+wwwroot\assets\image\dental.jpg
+wwwroot\assets\image\health.jpg
+wwwroot\assets\image\operation.jpg
+wwwroot\assets\js\script.js
+wwwroot\favicon.ico
